@@ -1,0 +1,5 @@
+.superpowers/
+_opensquad/_browser_profile/
+node_modules/
+.env
+*.log
